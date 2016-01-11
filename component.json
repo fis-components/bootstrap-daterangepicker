@@ -1,0 +1,13 @@
+{
+    "name": "bootstrap-daterangepicker",
+    "description": "Date range picker component for Bootstrap",
+    "repos": "https://github.com/dangrossman/bootstrap-daterangepicker.git",
+    "main": "daterangepicker.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "jquery": "^1.10",
+        "moment": "^2.9.0"
+    },
+    "version": "2.1.17"
+}
